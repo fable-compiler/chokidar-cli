@@ -1,7 +1,7 @@
 {
-  "name": "chokidar-cli",
+  "name": "@fable-compiler/chokidar-cli",
   "description": "Ultra-fast cross-platform command line utility to watch file system changes.",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "keywords": [
     "fs",
     "watch",
@@ -32,7 +32,7 @@
   "dependencies": {
     "bluebird": "3.5.3",
     "chokidar": "2.1.1",
-    "lodash": "4.17.11",
+    "lodash": "^4.17.15",
     "yargs": "12.0.5"
   },
   "devDependencies": {

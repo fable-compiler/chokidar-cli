@@ -1,5 +1,7 @@
 # Chokidar CLI
 
+**NOTE:** This is just a fork to fix the [lodash security issue](https://github.com/kimmobrunfeldt/chokidar-cli/issues/66).
+
 [![Build Status](https://travis-ci.org/kimmobrunfeldt/chokidar-cli.svg?branch=master)](https://travis-ci.org/kimmobrunfeldt/chokidar-cli)
 
 Fast cross-platform command line utility to watch file system changes.
